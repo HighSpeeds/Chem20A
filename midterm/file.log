@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.25)  6 FEB 2023 13:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.25)  6 FEB 2023 13:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/Lawrence/Desktop/UCLA/Chem20A/Worksheet4/Lawrence_Liu_Worksheet_4.tex
-(c:/Users/Lawrence/Desktop/UCLA/Chem20A/Worksheet4/Lawrence_Liu_Worksheet_4.tex
+**c:/Users/Lawrence/Desktop/UCLA/Chem20A/midterm/file.tex
+(c:/Users/Lawrence/Desktop/UCLA/Chem20A/midterm/file.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-08-30>
 
@@ -251,8 +251,8 @@ Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
 File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count294
 \l__pdf_internal_box=\box60
-) (./Lawrence_Liu_Worksheet_4.aux)
-\openout1 = `Lawrence_Liu_Worksheet_4.aux'.
+) (./file.aux)
+\openout1 = `file.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
@@ -308,41 +308,49 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
  (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (72.42297pt too wide) in paragraph at lines 6--10
-\OT1/cmr/m/n/12 bitals, the pos-si-ble quan-tum states are (5,3,-3),(5,3,-2),(5,3,-1),(5,3,0),(5,3,1),(5,3,2),(5,3,3).
+<1a.png, id=1, 3035.34pt x 1998.46625pt>
+File: 1a.png Graphic file (type png)
+<use 1a.png>
+Package pdftex.def Info: 1a.png  used on input line 12.
+(pdftex.def)             Requested size: 195.0pt x 128.38016pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--14
+
  []
 
-<5dxy.png, id=1, 3035.34pt x 2075.755pt>
-File: 5dxy.png Graphic file (type png)
-<use 5dxy.png>
-Package pdftex.def Info: 5dxy.png  used on input line 14.
-(pdftex.def)             Requested size: 195.0pt x 133.34514pt.
 [1
 
-{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./1a.png>] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 49--57
 
-LaTeX Warning: Command \r invalid in math mode on input line 22.
-
-
-LaTeX Warning: Command \r invalid in math mode on input line 22.
+ []
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 25.
+LaTeX Warning: Command \r invalid in math mode on input line 59.
 
-[2 <./5dxy.png>] [3] (./Lawrence_Liu_Worksheet_4.aux) ) 
+
+LaTeX Warning: Command \r invalid in math mode on input line 60.
+
+[3] [4] [5] [6]
+<5d.png, id=31, 3035.34pt x 1700.3525pt>
+File: 5d.png Graphic file (type png)
+<use 5d.png>
+Package pdftex.def Info: 5d.png  used on input line 142.
+(pdftex.def)             Requested size: 195.0pt x 109.22952pt.
+ [7] [8 <./5d.png>] (./file.aux) ) 
 Here is how much of TeX's memory you used:
- 7619 strings out of 475075
- 123178 string characters out of 5783001
- 466162 words of memory out of 5000000
- 28944 multiletter control sequences out of 15000+600000
+ 7625 strings out of 475075
+ 123004 string characters out of 5783001
+ 468120 words of memory out of 5000000
+ 28950 multiletter control sequences out of 15000+600000
  477715 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,7n,82p,398b,265s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on Lawrence_Liu_Worksheet_4.pdf (3 pages, 1120028 bytes).
+ 74i,9n,82p,375b,265s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on file.pdf (8 pages, 1575619 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 78 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

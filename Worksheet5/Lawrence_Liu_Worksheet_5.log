@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.25)  6 FEB 2023 13:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.25)  12 FEB 2023 01:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/Lawrence/Desktop/UCLA/Chem20A/Worksheet4/Lawrence_Liu_Worksheet_4.tex
-(c:/Users/Lawrence/Desktop/UCLA/Chem20A/Worksheet4/Lawrence_Liu_Worksheet_4.tex
+**c:/Users/Lawrence/Desktop/UCLA/Chem20A/Worksheet5/Lawrence_Liu_Worksheet_5.tex
+(c:/Users/Lawrence/Desktop/UCLA/Chem20A/Worksheet5/Lawrence_Liu_Worksheet_5.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-08-30>
 
@@ -251,8 +251,8 @@ Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
 File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count294
 \l__pdf_internal_box=\box60
-) (./Lawrence_Liu_Worksheet_4.aux)
-\openout1 = `Lawrence_Liu_Worksheet_4.aux'.
+) (./Lawrence_Liu_Worksheet_5.aux)
+\openout1 = `Lawrence_Liu_Worksheet_5.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
@@ -307,42 +307,33 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
  (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Overfull \hbox (72.42297pt too wide) in paragraph at lines 6--10
-\OT1/cmr/m/n/12 bitals, the pos-si-ble quan-tum states are (5,3,-3),(5,3,-2),(5,3,-1),(5,3,0),(5,3,1),(5,3,2),(5,3,3).
- []
-
-<5dxy.png, id=1, 3035.34pt x 2075.755pt>
-File: 5dxy.png Graphic file (type png)
-<use 5dxy.png>
-Package pdftex.def Info: 5dxy.png  used on input line 14.
-(pdftex.def)             Requested size: 195.0pt x 133.34514pt.
-[1
+) [1
 
 {c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-LaTeX Warning: Command \r invalid in math mode on input line 22.
-
-
-LaTeX Warning: Command \r invalid in math mode on input line 22.
-
-
-LaTeX Warning: Command \r invalid in math mode on input line 25.
-
-[2 <./5dxy.png>] [3] (./Lawrence_Liu_Worksheet_4.aux) ) 
+<problem3.png, id=13, 3035.34pt x 1889.0575pt>
+File: problem3.png Graphic file (type png)
+<use problem3.png>
+Package pdftex.def Info: problem3.png  used on input line 27.
+(pdftex.def)             Requested size: 195.0pt x 121.3518pt.
+<problem4.png, id=14, 3035.34pt x 1381.16pt>
+File: problem4.png Graphic file (type png)
+<use problem4.png>
+Package pdftex.def Info: problem4.png  used on input line 36.
+(pdftex.def)             Requested size: 195.0pt x 88.72481pt.
+ [2 <./problem3.png>] [3 <./problem4.png>] (./Lawrence_Liu_Worksheet_5.aux) ) 
 Here is how much of TeX's memory you used:
- 7619 strings out of 475075
- 123178 string characters out of 5783001
+ 7626 strings out of 475075
+ 123321 string characters out of 5783001
  466162 words of memory out of 5000000
- 28944 multiletter control sequences out of 15000+600000
+ 28950 multiletter control sequences out of 15000+600000
  477715 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,7n,82p,398b,265s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on Lawrence_Liu_Worksheet_4.pdf (3 pages, 1120028 bytes).
+ 74i,6n,82p,398b,265s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on Lawrence_Liu_Worksheet_5.pdf (3 pages, 1363723 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 56 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
